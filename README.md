@@ -49,7 +49,7 @@ Este es un juego de plataformas en 2D donde tu objetivo es superar obstáculos, 
 ## Instalación
 
 1. Descarga el proyecto desde el repositorio.
-2. Abre el proyecto en Unity .
+2. Abre el proyecto en Unity.
 3. Ejecuta Plataformas2D.exe.
 
 ---
